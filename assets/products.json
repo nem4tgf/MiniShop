@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Áo thun",
+    "imageUrl": "https://bizweb.dktcdn.net/100/446/974/products/ao-thun-mlb-new-era-heavy-cotton-new-york-yankees-black-13086578-1.jpg?v=1691318321487",
+    "price": 150000
+  },
+  {
+    "id": "2",
+    "name": "Quần jeans",
+    "imageUrl": "https://product.hstatic.net/200000690725/product/53655400895_8f7db2c905_k_13caf99a3f314423a45e60397818b63c_master.jpg",
+    "price": 300000
+  }
+]
